@@ -19,8 +19,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jishnu-vn/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2351-first-letter-to-appear-twice](https://github.com/jishnu-vn/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
 | [2651-calculate-delayed-arrival-time](https://github.com/jishnu-vn/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
+## Hash Table
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/jishnu-vn/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## String
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/jishnu-vn/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/jishnu-vn/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
