@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/jishnu-vn/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jishnu-vn/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
@@ -18,15 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/jishnu-vn/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jishnu-vn/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2351-first-letter-to-appear-twice](https://github.com/jishnu-vn/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/jishnu-vn/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2651-calculate-delayed-arrival-time](https://github.com/jishnu-vn/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 ## Hash Table
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/jishnu-vn/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/jishnu-vn/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
