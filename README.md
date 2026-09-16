@@ -69,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jishnu-vn/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/jishnu-vn/leetcode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
