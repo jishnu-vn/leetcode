@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/jishnu-vn/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/jishnu-vn/leetcode/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/jishnu-vn/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jishnu-vn/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/jishnu-vn/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/jishnu-vn/leetcode/tree/master/1683-invalid-tweets) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/jishnu-vn/leetcode/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
