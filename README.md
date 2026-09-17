@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/jishnu-vn/leetcode/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/jishnu-vn/leetcode/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/jishnu-vn/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jishnu-vn/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/jishnu-vn/leetcode/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jishnu-vn/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
