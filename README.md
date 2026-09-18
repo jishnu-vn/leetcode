@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jishnu-vn/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jishnu-vn/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jishnu-vn/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jishnu-vn/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jishnu-vn/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
@@ -40,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/jishnu-vn/leetcode/tree/master/0771-jewels-and-stones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jishnu-vn/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/jishnu-vn/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jishnu-vn/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/jishnu-vn/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jishnu-vn/leetcode/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/jishnu-vn/leetcode/tree/master/0771-jewels-and-stones) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jishnu-vn/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/jishnu-vn/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jishnu-vn/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
