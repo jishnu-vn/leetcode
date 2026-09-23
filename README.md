@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jishnu-vn/leetcode/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/jishnu-vn/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jishnu-vn/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/jishnu-vn/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jishnu-vn/leetcode/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/jishnu-vn/leetcode/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jishnu-vn/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jishnu-vn/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jishnu-vn/leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/jishnu-vn/leetcode/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/jishnu-vn/leetcode/tree/master/0771-jewels-and-stones) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jishnu-vn/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
