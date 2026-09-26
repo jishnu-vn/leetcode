@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jishnu-vn/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/jishnu-vn/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/jishnu-vn/leetcode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/jishnu-vn/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jishnu-vn/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jishnu-vn/leetcode/tree/master/0070-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jishnu-vn/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jishnu-vn/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jishnu-vn/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jishnu-vn/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jishnu-vn/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
