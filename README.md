@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jishnu-vn/leetcode/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jishnu-vn/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jishnu-vn/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1859-sorting-the-sentence](https://github.com/jishnu-vn/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jishnu-vn/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jishnu-vn/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jishnu-vn/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1859-sorting-the-sentence](https://github.com/jishnu-vn/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2351-first-letter-to-appear-twice](https://github.com/jishnu-vn/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jishnu-vn/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/jishnu-vn/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/jishnu-vn/leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
