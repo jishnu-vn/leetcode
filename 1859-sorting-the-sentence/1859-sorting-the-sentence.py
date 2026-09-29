@@ -3,5 +3,6 @@ class Solution(object):
         words=s.split()
         ans=[""]*len(words)
         for wrd in words:
-            ans[int(wrd[-1])-1]=wrd[:-1]
+            place=int(wrd[-1])-1
+            ans[place]=wrd[:-1]
         return " ".join(ans)
