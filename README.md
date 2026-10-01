@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/jishnu-vn/leetcode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/jishnu-vn/leetcode/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/jishnu-vn/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/jishnu-vn/leetcode/tree/master/1859-sorting-the-sentence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/jishnu-vn/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
