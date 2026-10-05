@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jishnu-vn/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/jishnu-vn/leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/jishnu-vn/leetcode/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jishnu-vn/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jishnu-vn/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jishnu-vn/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jishnu-vn/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
