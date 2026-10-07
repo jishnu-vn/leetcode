@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jishnu-vn/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/jishnu-vn/leetcode/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/jishnu-vn/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/jishnu-vn/leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/jishnu-vn/leetcode/tree/master/0771-jewels-and-stones) |
@@ -187,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/jishnu-vn/leetcode/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/jishnu-vn/leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
