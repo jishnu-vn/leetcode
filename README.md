@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jishnu-vn/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/jishnu-vn/leetcode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/jishnu-vn/leetcode/tree/master/0836-rectangle-overlap) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jishnu-vn/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jishnu-vn/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/jishnu-vn/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jishnu-vn/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
