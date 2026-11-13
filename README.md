@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jishnu-vn/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jishnu-vn/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2119-a-number-after-a-double-reversal](https://github.com/jishnu-vn/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2544-alternating-digit-sum](https://github.com/jishnu-vn/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/jishnu-vn/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jishnu-vn/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3524-find-x-value-of-array-i](https://github.com/jishnu-vn/leetcode/tree/master/3524-find-x-value-of-array-i) |
