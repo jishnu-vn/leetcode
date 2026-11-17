@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/jishnu-vn/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jishnu-vn/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jishnu-vn/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1837-sum-of-digits-in-base-k](https://github.com/jishnu-vn/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/jishnu-vn/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2544-alternating-digit-sum](https://github.com/jishnu-vn/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/jishnu-vn/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
